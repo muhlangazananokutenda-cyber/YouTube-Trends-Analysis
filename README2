@@ -1,0 +1,27 @@
+# YouTube Trending Data Analysis
+
+## Project Overview
+Cleaned and visualized YouTube trending data using Python (Pandas, NumPy, Matplotlib).
+
+## Tools
+- Python
+- Pandas, NumPy, Matplotlib
+- Jupyter Notebook / Google Colab
+
+## Key Findings
+- Best publish time: *2–5 PM*
+- Category with most views: *Entertainment*
+- Likes ratio > 0.95 is common for trending videos
+
+## Files in this repo
+- youtube_analysis.ipynb – complete code with cleaning and charts
+- cleaned_youtube_data.csv – cleaned dataset (if included)
+- images/ – charts from the analysis (if you uploaded them)
+
+## How to run
+1. Download the .ipynb file.
+2. Upload to [Google Colab](https://colab.research.google.com/).
+3. Run all cells.
+
+## Author
+ Nokutenda Muhlangazana - www.linkedin.com/in/nokutenda-muhlangazana-b1111a3a5                                     
